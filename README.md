@@ -18,7 +18,7 @@
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Learning
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -37,8 +37,8 @@
 ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=fmachadoweb&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmachadoweb&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=fmachadoweb&show_icons=true&theme=vision-friendly-dark" alt="fmachadoweb's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmachadoweb&layout=compact&theme=vision-friendly-dark" alt="fmachadoweb's most languages"/>
 </p>
 
 
