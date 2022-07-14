@@ -4,7 +4,7 @@
 
 - 🔥 Dev. Learning #html #css #javascript #sql #react #nodejs #fullstack 
 
-- 🔭 I’m currently working at Freelance (https://github.com/fmachadoweb)
+- 🔭 I’m currently working at Freelance [alfawebhost.com.br](https://alfawebhost.com.br)
 
 - ▶️ I (not) regularly post videos on [youtube.com/tekbrs](https://youtube.com/tekbrs)
 
