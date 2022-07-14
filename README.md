@@ -4,16 +4,9 @@
 
 - 🔥 Dev. Learning #html #css #javascript #sql #react #nodejs #fullstack 
 
-- 🔭 I’m currently working at Freelance [alfawebhost.com.br](https://alfawebhost.com.br)
-
-- ▶️ I (not) regularly post videos on [youtube.com/tekbrs](https://youtube.com/tekbrs)
+- ▶️ I (not) regularly post videos on [youtube.com/tekmaster](https://youtube.com/tekmaster)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
-
-- 👨‍💻 More at [alfawebhost.com.br](https://alfawebhost.com.br)
-
 
 
 <br><br>
