@@ -56,6 +56,3 @@
  <img align="center" src="https://img.shields.io/badge/-tekmaster-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
-
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=fmachadoweb&layout=wide&show_reply=off&show_retweet=off" />
-
