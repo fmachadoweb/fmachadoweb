@@ -1,18 +1,18 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/fmachadoweb/2913ada50f75e741e5e20cef7e50cd68/raw/c669490af74dd674a57f262750bd2376c528393c/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mayk Brito</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Fernando Machado</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🔥 Dev. Learning #html #css #javascript #sql #react #nodejs #fullstack 
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+- 🔭 I’m currently working at Freelance (https://github.com/fmachadoweb)
 
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- ▶️ I (not) regularly post videos on [youtube.com/tekbrs](https://youtube.com/tekbrs)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
 - ⚡ Fun fact **Oneye 😜**
 
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
+- 👨‍💻 More at [alfawebhost.com.br](https://alfawebhost.com.br)
 
 <!--
 
