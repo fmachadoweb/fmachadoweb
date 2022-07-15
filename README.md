@@ -60,5 +60,5 @@
 
 ## Twitter
 
-<img width="460em" src="https://github-readme-twitter.gazf.vercel.app/api?id=fmachadoweb&layout=wide" alt="fmachadoweb's twitter"/>
+<img width="460em" src="https://github-readme-twitter.gazf.vercel.app/api?id=fmachadoweb" alt="fmachadoweb's twitter"/>
 
