@@ -26,16 +26,6 @@
 
 <br>
 
-⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="460em" src="https://github-readme-stats.vercel.app/api?username=fmachadoweb&show_icons=true&theme=vision-friendly-dark" alt="fmachadoweb's stats"/>
-<img width="460em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmachadoweb&layout=compact&theme=vision-friendly-dark" alt="fmachadoweb's most languages"/>
-</p>
-
-
-<br>
-
 ## Contact
 
 <p align="left" style="background:yellow">
@@ -56,7 +46,17 @@
 </a>
 </p>
 
-<br><br>
+<br>
+
+⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="460em" src="https://github-readme-stats.vercel.app/api?username=fmachadoweb&show_icons=true&theme=vision-friendly-dark" alt="fmachadoweb's stats"/>
+<img width="460em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmachadoweb&layout=compact&theme=vision-friendly-dark" alt="fmachadoweb's most languages"/>
+</p>
+
+
+<br>
 
 ## Twitter
 
