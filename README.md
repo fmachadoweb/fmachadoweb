@@ -9,7 +9,7 @@
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
 
-<br><br><br><br>
+<br><br>
 
 ## 🛠 &nbsp;Learning
 
@@ -25,17 +25,17 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<br><br><br><br>
+<br><br>
 
 ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=fmachadoweb&show_icons=true&theme=vision-friendly-dark" alt="fmachadoweb's stats"/>
-<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmachadoweb&layout=compact&theme=vision-friendly-dark" alt="fmachadoweb's most languages"/>
+<img width="460em" src="https://github-readme-stats.vercel.app/api?username=fmachadoweb&show_icons=true&theme=vision-friendly-dark" alt="fmachadoweb's stats"/>
+<img width="436em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmachadoweb&layout=compact&theme=vision-friendly-dark" alt="fmachadoweb's most languages"/>
 </p>
 
 
-<br><br><br><br>
+<br><br>
 
 ## Contact
 
