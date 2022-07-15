@@ -9,7 +9,7 @@
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Learning
 
@@ -24,7 +24,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<br><br>
+<br>
 
 ⚙️ &nbsp;GitHub Analytics
 
@@ -34,7 +34,7 @@
 </p>
 
 
-<br><br>
+<br>
 
 ## Contact
 
@@ -60,5 +60,5 @@
 
 ## Twitter
 
-<img width="460em" src="https://github-readme-twitter.gazf.vercel.app/api?id=fmachadoweb" alt="fmachadoweb's twitter"/>
+<img width="460em" src="https://github-readme-twitter.gazf.vercel.app/api?id=fmachadoweb&layout=wide" alt="fmachadoweb's twitter"/>
 
