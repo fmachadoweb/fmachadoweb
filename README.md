@@ -4,7 +4,7 @@
 
 - 🔥 Starting Career in Dev. Learning #html #css #javascript #sql #react #nodejs #fullstack 
 
-- ▶️ I (not) regularly post videos on [youtube.com/tekmaster](https://youtube.com/tekmaster){:target="_blank"}
+- ▶️ I (not) regularly post videos on [youtube.com/tekmaster](https://youtube.com/tekmaster){:target="_blank" rel="noopener"}
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
