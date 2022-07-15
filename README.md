@@ -6,7 +6,7 @@
 
 - ▶️ I (not) regularly post videos on [youtube.com/tekmaster](https://youtube.com/tekmaster)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **HTML, CSS, SQL,JavaScript, Node.JS**
 
 
 <br>
