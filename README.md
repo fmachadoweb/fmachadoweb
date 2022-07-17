@@ -63,3 +63,4 @@
 <img width="460em" src="https://github-readme-twitter.gazf.vercel.app/api?id=fmachadoweb&layout=wide" alt="fmachadoweb's twitter"/>
 
 
+![Snake animation](https://github.com/fmachadoweb/fmachadoweb/blob/output/github-contribution-grid-snake.svg)
