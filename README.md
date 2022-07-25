@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/fmachadoweb/f60226059c02a7dcc9d4721911c8860a/raw/61566f85fb30aab878f3e7cf1a816167b2757491/githubcard.svg"/>
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou o Fernando Machado</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Fernando Machado</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fmachadoweb&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Estou estudando HTML, CSS, Javascript, NodeJS, ReactJS. 
