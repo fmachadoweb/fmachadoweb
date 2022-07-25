@@ -1,17 +1,17 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/fmachadoweb/2913ada50f75e741e5e20cef7e50cd68/raw/c669490af74dd674a57f262750bd2376c528393c/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Fernando Machado</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou o Fernando Machado</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fmachadoweb&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Dev. Learning HTML, CSS, Javascript, NodeJS, ReactJS. 
+- 🔥 Estou estudando HTML, CSS, Javascript, NodeJS, ReactJS. 
 
-- ▶️ I (not) regularly post videos on [youtube.com/tekmaster](https://youtube.com/tekmaster)
+- ▶️ Meu canal (não posto regularmente) [youtube.com/tekmaster](https://youtube.com/tekmaster)
 
-- 💬 Ask me about **HTML, CSS, SQL,JavaScript, Node.JS**
+- 💬 Converse comigo sobre **HTML, CSS, SQL,JavaScript, Node.JS**
 
 
 <br>
 
-## 🛠 &nbsp;Learning
+## 🛠 &nbsp;Estudando
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -26,7 +26,7 @@
 
 <br>
 
-## Contact
+## Contato
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/fmachado" target="_blank">
