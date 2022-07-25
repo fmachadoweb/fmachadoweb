@@ -4,7 +4,7 @@
 
 - 🔥 Estou estudando HTML, CSS, Javascript, NodeJS, ReactJS. 
 
-- ▶️ Meu canal (não posto regularmente) [youtube.com/tekmaster](https://youtube.com/tekmaster)
+- ▶️ Meu canal (sobre hardware) [youtube.com/tekmaster](https://youtube.com/tekmaster)
 
 - 💬 Converse comigo sobre **HTML, CSS, SQL,JavaScript, Node.JS**
 
