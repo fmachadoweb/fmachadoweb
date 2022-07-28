@@ -2,7 +2,7 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Fernando Machado, seja bem vindo(a).</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fmachadoweb&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Estou estudando HTML, CSS, Javascript, NodeJS, ReactJS. 
+- 🔥 Estou estudando HTML, CSS, Javascript, TypeScript, React, Angular, Nodejs.
 
 - ▶️ Meu canal (sobre hardware) [youtube.com/tekmaster](https://youtube.com/tekmaster)
 
