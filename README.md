@@ -32,10 +32,6 @@
 
 <br>
 
-![INGLES](https://img.shields.io/badge/-ENGLISH-green)&nbsp;
-
-<br>
-
 ## Contato
 
 <p align="left" style="background:yellow">
