@@ -1,6 +1,5 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/fmachadoweb/f60226059c02a7dcc9d4721911c8860a/raw/61566f85fb30aab878f3e7cf1a816167b2757491/githubcard.svg"/>
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Fernando Machado, seja bem vindo(a).</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fmachadoweb&color=yellow" alt="Profile views" /> </p>
+<h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Fernando Machado, seja bem vindo(a).</h1>
+<p> <img src="https://komarev.com/ghpvc/?username=fmachadoweb&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Estou estudando HTML, CSS, Javascript, TypeScript, React.
 
@@ -8,6 +7,8 @@
 
 - 💬 Converse comigo sobre **HTML, CSS,JavaScript**
 
+
+<img src="https://github.com/fmachadoweb/fmachadoweb/blob/main/149240312-ecacc2d6-f690-44bd-9711-9567679d5f73.jpg?raw=true">
 
 <br>
 
