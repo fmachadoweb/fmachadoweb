@@ -5,7 +5,7 @@
 
 - ▶️ Meu canal (sobre hardware) [youtube.com/tekmaster](https://youtube.com/tekmaster)
 
-- 💬 Converse comigo sobre **HTML, CSS,JavaScript**
+- 💬 Converse comigo sobre **Front-End em Geral**
 
 
 <img src="https://github.com/fmachadoweb/fmachadoweb/blob/main/149240312-ecacc2d6-f690-44bd-9711-9567679d5f73.jpg?raw=true">
