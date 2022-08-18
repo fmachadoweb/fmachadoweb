@@ -32,7 +32,7 @@
 
 <br>
 
-## Contato
+## CONTATO
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/fmachado" target="_blank">
