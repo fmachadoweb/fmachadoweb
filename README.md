@@ -1,7 +1,7 @@
 <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou o Fernando Machado, seja bem vindo(a).</h1>
 <p> <img src="https://komarev.com/ghpvc/?username=fmachadoweb&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Estou estudando Front-End {**HTML**, **CSS**, **Javascript**, **TypeScript**, **ReactJS**} e também Inglês na Alura Lingua.
+- 🔥 Estou estudando Front-End {**HTML**, **CSS**, **Javascript**, **TypeScript**, **ReactJS**} e também **Inglês** na **Alura Lingua**.
 
 - ▶️ Meu canal (sobre hardware) [youtube.com/tekmaster](https://youtube.com/tekmaster)
 
