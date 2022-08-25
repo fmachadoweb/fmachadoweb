@@ -1,11 +1,11 @@
-<h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Fernando Machado, seja bem vindo(a).</h1>
+<h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou o Fernando Machado, seja bem vindo(a).</h1>
 <p> <img src="https://komarev.com/ghpvc/?username=fmachadoweb&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Estou estudando para me tornar um programador Front-End {HTML, CSS, Javascript, TypeScript, React.}
 
 - ▶️ Meu canal (sobre hardware) [youtube.com/tekmaster](https://youtube.com/tekmaster)
 
-- 💬 Converse comigo sobre **Front-End, Rotinas de TI em Geral, Gosto de Cozinhar também**
+- 💬 Converse comigo sobre **Front-End, Rotinas de TI em Geral, "Gosto de Cozinhar também"**!
 
 
 <img src="https://github.com/fmachadoweb/fmachadoweb/blob/main/149240312-ecacc2d6-f690-44bd-9711-9567679d5f73.jpg?raw=true">
