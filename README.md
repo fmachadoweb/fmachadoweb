@@ -3,9 +3,9 @@
 
 - 🔥 Estou estudando Front-End {**HTML**, **CSS**, **Javascript**, **TypeScript**, **ReactJS**} e também **Inglês** na **Alura Lingua**.
 
-- ▶️ Meu canal (sobre hardware) [youtube.com/tekmaster](https://youtube.com/tekmaster)
-
 - 💬 Converse comigo sobre **Front-End, Rotinas de TI em Geral, "Gosto de Cozinhar também"**!
+
+- ▶️ Meu canal (sobre hardware e tecnologia) [youtube.com/tekmaster](https://youtube.com/tekmaster)
 
 
 <img src="https://github.com/fmachadoweb/fmachadoweb/blob/main/149240312-ecacc2d6-f690-44bd-9711-9567679d5f73.jpg?raw=true">
