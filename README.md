@@ -1,20 +1,20 @@
-<h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou o Fernando Machado, seja bem vindo(a).</h1>
+<h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Fernando Machado, Welcome.</h1>
 <p> <img src="https://komarev.com/ghpvc/?username=fmachadoweb&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Estou estudando Desenvolvimento Front-End {**HTML**, **CSS**, **Javascript**, **TypeScript**, **ReactJS** , **NodeJS**, **Git**, **GitHub**} simultaneamente nas escolas **Rocketseat**, **Alura** e na **Coursera Front-End Developer by Meta**.
+- 🔥 Learning Front-End {**HTML**, **CSS**, **Javascript**, **TypeScript**, **ReactJS** , **NodeJS**, **Git**, **GitHub**} in **Rocketseat**, **Alura** and **Coursera Front-End Developer by Meta**.
 
-- 🔥 Estou estudando também **Inglês** na **Alura Lingua**.
+- 🔥 I'm Learning **English** at **Alura**.
 
-- 💬 Converse comigo sobre **Front-End, Rotinas de TI em Geral, "Gosto de Cozinhar também"**!
+- 💬 Talk me about **Front-End, "I like to cook too"**!
 
-- ▶️ Meu canal (sobre hardware e tecnologia) [youtube.com/tekmaster](https://youtube.com/tekmaster)
+- ▶️ My youtube channel (Hardware and Technology) [youtube.com/tekmaster](https://youtube.com/tekmaster)
 
 
 <img src="https://github.com/fmachadoweb/fmachadoweb/blob/main/149240312-ecacc2d6-f690-44bd-9711-9567679d5f73.jpg?raw=true">
 
 <br>
 
-## 🛠 &nbsp;ESTUDANDO ATUALMENTE!
+## 🛠 &nbsp;LEARNING!
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -27,7 +27,7 @@
 
 <br>
 
-## 🛠 &nbsp;VOU ESTUDAR!
+## 🛠 &nbsp;NEXT LEARNING!
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
@@ -35,7 +35,7 @@
 
 <br>
 
-## CONTATO
+## CONTACT
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/fmachado" target="_blank">
