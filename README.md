@@ -1,9 +1,9 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Fernando Machado, Welcome.</h1>
 <p> <img src="https://komarev.com/ghpvc/?username=fmachadoweb&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Learning Front-End in **Rocketseat**, **Alura** and **Coursera (Front-End Developer by Meta)**.
+- 🔥 Learning Front-End at **<a href="https://github.com/rocketseat">@Rocketseat**</a>, **<a href="https://github.com/alura">@Alura</a>** and **<a href="https://github.com/coursera">@Coursera</a> (Front-End Developer by Meta)**.
 
-- 🔥 I'm Learning **English** at **Alura**.
+- 🔥 Learning **English** at **<a href="https://github.com/alura">@Alura</a>**.
 
 - 💬 Talk me about **Front-End, IT... "I like to cook too"**!
 
