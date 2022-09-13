@@ -5,7 +5,7 @@
 
 - 🔥 I'm Learning **English** at **Alura**.
 
-- 💬 Talk me about **Front-End, TI... "I like to cook too"**!
+- 💬 Talk me about **Front-End, IT... "I like to cook too"**!
 
 - ▶️ My youtube channel (Hardware and Technology) [youtube.com/tekmaster](https://youtube.com/tekmaster)
 
