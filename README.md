@@ -50,8 +50,6 @@
 
 <br>
 
-⚙️ &nbsp;GitHub Analytics
-
 
 <div>
   <a href="https://github.com/carlosdancr">
