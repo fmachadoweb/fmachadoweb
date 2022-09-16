@@ -3,9 +3,11 @@
 
 - 🔥 Studying of Computer Systems Analyst at **Estácio**
 
-- 🔥 Learning Front-End at **<a href="https://github.com/rocketseat">@Rocketseat**</a>, **<a href="https://github.com/alura">@Alura</a>** and **<a href="https://github.com/coursera">@Coursera</a> (Front-End Developer by Meta)**.
+- 🔥 Learning Front-End at **<a href="https://github.com/alura">@Alura</a>** and **<a href="https://github.com/coursera">@Coursera</a> (Front-End Developer by Meta)**.
 
 - 🔥 Learning **English** at **<a href="https://github.com/alura">@Alura</a>**.
+
+- 🔥 Completes Front-End course at **<a href="https://github.com/rocketseat">@Rocketseat**</a>,
 
 - 💬 Talk me about **Front-End, IT... "I like to cook too"**!
 
