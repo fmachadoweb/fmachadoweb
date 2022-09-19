@@ -11,7 +11,7 @@
 
 - 🔥 Completes Front-End course at **<a href="https://github.com/rocketseat">@Rocketseat**</a>,
 
-- 💬 Talk me about **Front-End, IT... "I really like to cook in my spare time."**!
+- 💬 Talk me about **Front-End, Web Develop, Technology (I love it)... "I really like to cook in my spare time."**!
 
 
 <img src="https://github.com/fmachadoweb/fmachadoweb/blob/main/149240312-ecacc2d6-f690-44bd-9711-9567679d5f73.jpg?raw=true">
