@@ -1,15 +1,17 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Fernando Machado, Welcome.</h1>
 <p> <img src="https://komarev.com/ghpvc/?username=fmachadoweb&color=yellow" alt="Profile views" /> </p>
 
+- I'm a Brazilian
+
 - 🔥 Studying of Computer Systems Analyst at **Estácio**
 
 - 🔥 Learning Front-End at **<a href="https://github.com/alura">@Alura</a>** and **<a href="https://github.com/coursera">@Coursera</a> (Front-End Developer by Meta)**.
 
-- 🔥 Learning **English** at **<a href="https://github.com/alura">@Alura</a>**.
+- 🔥 Learning **English** at **<a href="https://github.com/alura">@Alura Língua</a>**.
 
 - 🔥 Completes Front-End course at **<a href="https://github.com/rocketseat">@Rocketseat**</a>,
 
-- 💬 Talk me about **Front-End, IT... "I like to cook too"**!
+- 💬 Talk me about **Front-End, IT... "I really like to cook in my spare time."**!
 
 
 <img src="https://github.com/fmachadoweb/fmachadoweb/blob/main/149240312-ecacc2d6-f690-44bd-9711-9567679d5f73.jpg?raw=true">
