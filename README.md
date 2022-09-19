@@ -1,7 +1,7 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Fernando Machado, Welcome.</h1>
 <p> <img src="https://komarev.com/ghpvc/?username=fmachadoweb&color=yellow" alt="Profile views" /> </p>
  
-- I'm a Brazilian 🇧🇷
+- I'm a Brazilian 	&#127463;&#127479;
 
 - 🔥 Studying of Computer Systems Analyst at **Estácio**
 
