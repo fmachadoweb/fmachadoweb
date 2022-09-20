@@ -1,7 +1,7 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Fernando Machado, Welcome.</h1>
 <p> <img src="https://komarev.com/ghpvc/?username=fmachadoweb&color=yellow" alt="Profile views" /> </p>
  
-- I'm a Brazilian 	🇧🇷
+- 🌐 I'm a Brazilian
 
 - 🔥 Studying of Computer Systems Analyst at **Estácio**
 
@@ -9,7 +9,7 @@
 
 - 🔥 Learning **English** at **<a href="https://github.com/alura">@Alura Língua</a>**.
 
-- 🔥 Completes Front-End course at **<a href="https://github.com/rocketseat">@Rocketseat**</a>,
+- 🏆 Completes Front-End course at **<a href="https://github.com/rocketseat">@Rocketseat**</a>,
 
 - 💬 Talk me about **Front-End, Web Develop, Technology (I love it)... "I really like to cook in my spare time."**!
 
