@@ -2,7 +2,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=fmachadoweb&color=yellow" alt="Profile views" /> </p>
  
 
-Sou Desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas na **Estácio**
+Sou Desenvolvedor WEB e estudante de Análise e Desenvolvimento de Sistemas na **Estácio**
 
 Estou estudando Programação na **<a href="https://github.com/alura">@Alura</a>** e **<a href="https://github.com/coursera">@Coursera</a> (Front-End Developer by Meta)**.
 
