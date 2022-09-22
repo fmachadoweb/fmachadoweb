@@ -10,7 +10,7 @@ Estou estudando Programação na **<a href="https://github.com/alura">@Alura</a>
 
 - 🏆 Já fiz curso completo de Front-End na **<a href="https://github.com/rocketseat">@Rocketseat**</a> e Introdução a HTML e CSS na **Escola DNC**
 
-- 💬 Fale comigo sobre **Front-End, Desenvolvimento Web, TI... "Eu gosto também de cozinhar nas horas vagas."**!
+- 💬 Fale comigo sobre **Front-End, Desenvolvimento Web, TI... "Eu gosto também de cozinhar."**!
 
 
 <img src="https://github.com/fmachadoweb/fmachadoweb/blob/main/149240312-ecacc2d6-f690-44bd-9711-9567679d5f73.jpg?raw=true">
