@@ -18,7 +18,7 @@ Estou estudando Programação na **<a href="https://github.com/alura">@Alura</a>
 <br>
 
 
-## LEARNING
+## ESTUDANDO
 
 <div style="display: inline_block"><br>
  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,7 +31,7 @@ Estou estudando Programação na **<a href="https://github.com/alura">@Alura</a>
 <br>
 
 
-## CONTACT
+## CONTATO
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/fmachadoweb" target="_blank">
