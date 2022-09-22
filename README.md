@@ -8,7 +8,7 @@ Estou estudando Programação na **<a href="https://github.com/alura">@Alura</a>
 
 - 🔥 Estudando **Inglês** na **<a href="https://github.com/alura">@Alura Língua</a>**.
 
-- 🏆 Já fiz curso completo de Front-End na **<a href="https://github.com/rocketseat">@Rocketseat**</a>,
+- 🏆 Já fiz curso completo de Front-End na **<a href="https://github.com/rocketseat">@Rocketseat**</a> e Introdução a HTML e CSS na **Escola DNC**
 
 - 💬 Fale comigo sobre **Front-End, Desenvolvimento Web, TI... "Eu gosto também de cozinhar nas horas vagas."**!
 
