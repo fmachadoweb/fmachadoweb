@@ -43,9 +43,7 @@ Estou estudando Programação na **<a href="https://github.com/alura">@Alura</a>
 <a href="https://instagram.com/tekbrs" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-tekbrs-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://youtube.com/tekmaster" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-tekmaster-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
+
 </p>
 
 <br>
