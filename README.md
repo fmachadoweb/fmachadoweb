@@ -11,6 +11,7 @@ Estou estudando Programação Javascript, Python na **<a href="https://github.co
 
 - 🏆 Curso completo de Front-End e Back-End na **<a href="https://github.com/rocketseat">@Rocketseat**</a> e Introdução a HTML e CSS na **Escola DNC**
 - 🏆 Curso de e Introdução a HTML e CSS na **Escola DNC**
+- 🏆 Curso de Banco de Dados SQL na **SoftBlue Cursos**
 
 
 - 💬 Fale comigo sobre **Front-End, Desenvolvimento Web, TI... "Eu gosto também de cozinhar nas horas vagas."**!
