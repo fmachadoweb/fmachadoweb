@@ -4,7 +4,8 @@
 
 Sou Desenvolvedor WEB e estudante de Análise e Desenvolvimento de Sistemas na **UNESA**
 
-Estou estudando Programação Javascript, Python na **<a href="https://github.com/alura">@Alura</a>** e **<a href="https://github.com/coursera">@Coursera</a> (Front-End Developer by Meta)**.
+Estou estudando Programação Javascript, Python na **<a href="https://github.com/alura">@Alura</a>** 
+
 
 - 🔥 Estudando **Inglês** na **<a href="https://github.com/alura">@Alura Língua</a>**.
 
