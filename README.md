@@ -2,7 +2,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=fmachadoweb&color=yellow" alt="Profile views" /> </p>
  
 
-Sou Desenvolvedor WEB e estudante de Análise e Desenvolvimento de Sistemas na **UNESA**
+Sou Desenvolvedor WEB, Design Gráfico, Ténico em Hardware e estudante de Análise e Desenvolvimento de Sistemas na **UNESA**
 
 Estou estudando Programação Javascript, Python na **<a href="https://github.com/alura">@Alura</a>** 
 
