@@ -2,13 +2,13 @@
 <p> <img src="https://komarev.com/ghpvc/?username=fmachadoweb&color=yellow" alt="Profile views" /> </p>
  
 
-Sou Desenvolvedor WEB e estudante de Análise e Desenvolvimento de Sistemas na **Estácio**
+Sou Desenvolvedor WEB e estudante de Análise e Desenvolvimento de Sistemas na **UNESA**
 
-Estou estudando Programação na **<a href="https://github.com/alura">@Alura</a>** e **<a href="https://github.com/coursera">@Coursera</a> (Front-End Developer by Meta)**.
+Estou estudando Programação Javascript, Python na **<a href="https://github.com/alura">@Alura</a>** e **<a href="https://github.com/coursera">@Coursera</a> (Front-End Developer by Meta)**.
 
 - 🔥 Estudando **Inglês** na **<a href="https://github.com/alura">@Alura Língua</a>**.
 
-- 🏆 Já fiz curso completo de Front-End na **<a href="https://github.com/rocketseat">@Rocketseat**</a> e Introdução a HTML e CSS na **Escola DNC**
+- 🏆 Já fiz curso completo de Front-End e Back-End na **<a href="https://github.com/rocketseat">@Rocketseat**</a> e Introdução a HTML e CSS na **Escola DNC**
 
 - 💬 Fale comigo sobre **Front-End, Desenvolvimento Web, TI... "Eu gosto também de cozinhar nas horas vagas."**!
 
