@@ -9,7 +9,9 @@ Estou estudando Programação Javascript, Python na **<a href="https://github.co
 
 - 🔥 Estudando **Inglês** na **<a href="https://github.com/alura">@Alura Língua</a>**.
 
-- 🏆 Já fiz curso completo de Front-End e Back-End na **<a href="https://github.com/rocketseat">@Rocketseat**</a> e Introdução a HTML e CSS na **Escola DNC**
+- 🏆 Curso completo de Front-End e Back-End na **<a href="https://github.com/rocketseat">@Rocketseat**</a> e Introdução a HTML e CSS na **Escola DNC**
+- 🏆 Curso de e Introdução a HTML e CSS na **Escola DNC**
+
 
 - 💬 Fale comigo sobre **Front-End, Desenvolvimento Web, TI... "Eu gosto também de cozinhar nas horas vagas."**!
 
