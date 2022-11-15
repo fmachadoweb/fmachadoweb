@@ -4,7 +4,7 @@
 
 Sou Desenvolvedor WEB, Design Gráfico, Ténico em Hardware e estudante de Análise e Desenvolvimento de Sistemas na **UNESA**
 
-Estou estudando Programação Javascript, Python na **<a href="https://github.com/alura">@Alura</a>** 
+Estou estudando Programação Front-End, Javascript, Python na **<a href="https://github.com/alura">@Alura</a>** 
 
 
 - 🔥 Estudando **Inglês** na **<a href="https://github.com/alura">@Alura Língua</a>**.
