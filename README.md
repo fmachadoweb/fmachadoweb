@@ -2,15 +2,15 @@
 <p> <img src="https://komarev.com/ghpvc/?username=fmachadoweb&color=yellow" alt="Profile views" /> </p>
  
 
-Sou Desenvolvedor WEB, Design Gráfico, Ténico em Hardware e estudante de Análise e Desenvolvimento de Sistemas.
+WEB Design, Design Gráfico, Ténico em Hardware e estudante de Análise e Desenvolvimento de Sistemas.
 
 Estou estudando Programação Full Stack, HTML, CSS, Banco de Dados com ênfase em Javascript e PHP na **<a href="https://b7web.com.br">@B7WEB</a>** 
 
 
-- 🔥 Estudando **Inglês** na **<a href="https://github.com/alura">@Alura Língua</a>**.
+- 🔥 Estudando **Inglês** na **<a href="https://alura.com.br">@Alura Língua</a>**.
 
-- 🏆 Curso Introdução a Programação na **<a href="https://github.com/alura">@Alura</a>** 
-- 🏆 Curso Desenvolvimento WEB na **<a href="https://github.com/rocketseat">@Rocketseat**</a> e Introdução a HTML e CSS na **Escola DNC**
+- 🏆 Curso Introdução a Programação na **<a href="https://alura.com.br">@Alura</a>** 
+- 🏆 Curso Desenvolvimento WEB na **<a href="https://rocketseat.com.br">@Rocketseat**</a> e Introdução a HTML e CSS na **Escola DNC**
 - 🏆 Curso de e Introdução a HTML e CSS na **Escola DNC**
 - 🏆 Curso de Banco de Dados SQL na **SoftBlue Cursos**
 
