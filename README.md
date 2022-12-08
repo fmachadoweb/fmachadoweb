@@ -1,5 +1,5 @@
 <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Fernando.</h1>
-<p> <img src="https://komarev.com/ghpvc/?username=fmachadoweb&color=yellow" alt="Profile views" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=fmachadoweb&color=yellow" alt="Visualizações" /> </p>
  
 
 WEB Design, Design Gráfico, Ténico em Hardware e estudante de Análise e Desenvolvimento de Sistemas.
