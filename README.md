@@ -12,7 +12,6 @@ Estou estudando Programação Full Stack, HTML, CSS, Banco de Dados com ênfase 
 - 🏆 Curso Introdução a Programação na **<a href="https://alura.com.br">@Alura</a>** 
 - 🏆 Curso Desenvolvimento Front-End / Back-End na **<a href="https://rocketseat.com.br">@Rocketseat**</a> 
 - 🏆 Curso de Introdução a HTML e CSS na **Escola DNC**
-- 🏆 Curso de e Introdução a HTML e CSS na **Escola DNC**
 - 🏆 Curso de Banco de Dados SQL na **SoftBlue Cursos**
 
 
