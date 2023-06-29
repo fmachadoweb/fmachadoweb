@@ -16,7 +16,7 @@ Criador do Site **<a href="https://www.socialdevs.com.br">SOCIALDEVS</a>**
 - 🏆 Curso de Banco de Dados SQL na **SoftBlue Cursos**
 
 
-- 💬 Fale comigo sobre **Front-End, Desenvolvimento Web, TI... "Eu gosto também de cozinhar nas horas vagas."**!
+- 💬 Fale comigo sobre **Front-End, Desenvolvimento Web, TI...**!
 
 
 <img src="https://github.com/fmachadoweb/fmachadoweb/blob/main/149240312-ecacc2d6-f690-44bd-9711-9567679d5f73.jpg?raw=true">
