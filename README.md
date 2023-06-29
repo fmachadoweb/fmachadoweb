@@ -4,7 +4,7 @@
 
 WEB Design, Design Gráfico, Ténico em Hardware e estudante de Análise e Desenvolvimento de Sistemas.
 
-Estou estudando Programação Full Stack, HTML, CSS, Banco de Dados com ênfase em Javascript e PHP na **<a href="https://b7web.com.br">@B7WEB</a>** 
+Estou estudando Programação Full Stack, HTML, CSS, Banco de Dados com ênfase em Javascript e PHP na **<a href="https://b7web.com.br">@B7WEB</a>** e  na **<a href="https://www.origamid.com/">@ORIGAMID</a>** 
 
 
 - 🔥 Estudando **Inglês** na **<a href="https://alura.com.br">@Alura Língua</a>**.
