@@ -6,6 +6,7 @@ WEB Design, Design Gráfico, Ténico em Hardware e estudante de Análise e Desen
 
 Estou estudando Programação Web, HTML, CSS, Banco de Dados, Javascript e PHP na **<a href="https://b7web.com.br">@B7WEB</a>** e  na **<a href="https://www.origamid.com/">@ORIGAMID</a>** 
 
+Criador do Site **<a href="https://www.socialdevs.com.br">SOCIALDEVS</a>** 
 
 - 🔥 Estudando **Inglês** na **<a href="https://alura.com.br">@Alura Língua</a>**.
 
