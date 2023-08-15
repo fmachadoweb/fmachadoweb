@@ -2,13 +2,11 @@
 <p> <img src="https://komarev.com/ghpvc/?username=fmachadoweb&color=yellow" alt="Visualizações do Perfil" /> </p>
  
 
-WEB Design, Design Gráfico, Ténico em Hardware e estudante de Análise e Desenvolvimento de Sistemas.
+WEB Design, Design Gráfico, Ténico em Informática e estudante de Análise e Desenvolvimento de Sistemas.
 
 Estou estudando Programação Web, HTML, CSS, Banco de Dados, Javascript e PHP na **<a href="https://b7web.com.br">@B7WEB</a>** e  na **<a href="https://www.origamid.com/">@ORIGAMID</a>** 
 
 Criador do Site **<a href="https://www.socialdevs.com.br">SOCIALDEVS</a>** 
-
-- 🔥 Estudando **Inglês** na **<a href="https://alura.com.br">@Alura Língua</a>**.
 
 - 🏆 Curso Introdução a Programação, HTML e  CSS na **<a href="https://alura.com.br">@Alura</a>** 
 - 🏆 Curso Desenvolvimento Front-End / Back-End na **<a href="https://rocketseat.com.br">@Rocketseat**</a> 
