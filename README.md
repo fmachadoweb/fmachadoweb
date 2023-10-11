@@ -6,8 +6,6 @@ WEB Design, Design Gráfico, Ténico em Informática e estudante de Análise e D
 
 Estou estudando Programação Web, HTML, CSS, Banco de Dados, Javascript e PHP na **<a href="https://b7web.com.br">@B7WEB</a>** e  na **<a href="https://www.origamid.com/">@ORIGAMID</a>** 
 
-Criador do Site **<a href="https://www.socialdevs.com.br">SOCIALDEVS</a>** 
-
 - 🏆 Curso Introdução a Programação, HTML e  CSS na **<a href="https://alura.com.br">@Alura</a>** 
 - 🏆 Curso Desenvolvimento Front-End / Back-End na **<a href="https://rocketseat.com.br">@Rocketseat**</a> 
 - 🏆 Curso de Introdução a HTML e CSS na **Escola DNC**
@@ -15,7 +13,6 @@ Criador do Site **<a href="https://www.socialdevs.com.br">SOCIALDEVS</a>**
 
 
 - 💬 Fale comigo sobre **Front-End, Desenvolvimento Web, TI...**!
-
 
 <img src="https://github.com/fmachadoweb/fmachadoweb/blob/main/149240312-ecacc2d6-f690-44bd-9711-9567679d5f73.jpg?raw=true">
 
