@@ -2,14 +2,14 @@
 <p> <img src="https://komarev.com/ghpvc/?username=fmachadoweb&color=yellow" alt="Visualizações do Perfil" /> </p>
  
 
-WEB Design, Design Gráfico, Professor de Ténico em Informática e Graduado em Análise e Desenvolvimento de Sistemas.
+WEB Design, Design Gráfico, Graduado em Análise e Desenvolvimento de Sistemas.
 
-Programação Web, HTML, CSS, Banco de Dados, Javascript e PHP
+Programação Web, HTML, CSS, Banco de Dados, Javascript, PHP.
 
-- 🏆 Curso Introdução a Programação, HTML e  CSS na **<a href="https://alura.com.br">@Alura</a>** 
-- 🏆 Curso Desenvolvimento Front-End / Back-End na **<a href="https://rocketseat.com.br">@Rocketseat**</a> 
-- 🏆 Curso de Introdução a HTML e CSS na **Escola DNC**
-- 🏆 Curso de Banco de Dados SQL na **SoftBlue Cursos**
+- 🏆 Graduado em Análise e Desenvolvimento de Sistemas na **<a href="https://estacio.com.br">@Estacio</a>** 
+- 🏆 Pós Graduado em Docência no Ensino Técnico e Profissional na **<a href="https://anhanguera.com.br">@Anhanguera**</a>
+- 🏆 Cursando Pós Graduado em MBA em Gestão de Projetos e Metodologias Ágens na **<a href="https://anhanguera.com.br">@Anhanguera**</a> 
+
 
 
 - 💬 Fale comigo sobre **Front-End, Desenvolvimento Web, TI...**!
