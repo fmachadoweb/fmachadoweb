@@ -7,8 +7,8 @@ WEB Design, Design Gráfico, Graduado em Análise e Desenvolvimento de Sistemas.
 Programação Web, HTML, CSS, Banco de Dados, Javascript, PHP.
 
 - 🏆 Graduado em Análise e Desenvolvimento de Sistemas na **<a href="https://estacio.com.br">@Estacio</a>** 
-- 🏆 Pós Graduado em Docência no Ensino Técnico e Profissional na **<a href="https://anhanguera.com.br">@Anhanguera**</a>
-- 🏆 Cursando Pós Graduado em MBA em Gestão de Projetos e Metodologias Ágens na **<a href="https://anhanguera.com.br">@Anhanguera**</a> 
+- 🏆 Pós Graduado em Docência no Ensino Técnico e Profissional na **<a href="https://anhanguera.com">@Anhanguera**</a>
+- 🏆 Cursando Pós Graduado em MBA em Gestão de Projetos e Metodologias Ágens na **<a href="https://anhanguera.com">@Anhanguera**</a> 
 
 
 
